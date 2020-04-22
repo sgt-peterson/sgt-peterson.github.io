@@ -1,0 +1,64 @@
+header {
+  font-family: 'Abril Fatface', cursive;
+  color: #222;
+  width: 600px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: auto;
+}
+.emphasis{
+  font-size: 30px;
+}
+main {
+  font-family: 'Abril Fatface', cursive;
+  color: #222;
+  width: 396px;
+  display: block;
+  justify-content: center;
+  margin: auto;
+  margin-top: -60px;
+}
+h1{
+  display: block;
+  width: 66%;
+  position: relative;
+  top: -80px;
+  left: 0px;
+  font-size: 20px;
+  justify-content: center;
+  margin: auto;
+  
+}
+
+blockquote{
+  color: white;
+  background: grey;
+  display: flex;
+  padding: 30px;
+  margin: -10px;
+  justify-content: center;
+  font-family: 'Abril Fatface', cursive;
+  font-size: 20px;
+}
+.idezo{
+  position: absolute;
+  color: white;
+  margin-left: -200px;
+  margin-top: -40px;
+  font-family: 'Abril Fatface', cursive;
+  font-size: 50px;
+}
+
+img{
+  width: 100%;
+}
+
+p{
+  font-family: 'Josefin Sans', sans-serif;
+  color: #222;
+}
+
+h4{
+  font-family: 'Merriweather', serif 15px italic;
+}
